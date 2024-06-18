@@ -3,12 +3,12 @@
 - degree: 计算机科学与技术工学学位(University)
   uni: 云南民族大学
   year: 2022 &mdash; 2026
-  awards:
-    - award: 优秀共青团员
-  summary: 体育委员
+#  awards:
+#    - award: 优秀共青团员
+#  summary: 体育委员
 
 - degree: 高中(High School)
   uni: 茚旺高中致远中学
   year: 2019 &mdash; 2022
-  award: 最有可能成功的
-  summary: You can choose to have either a single or multiple awards
+#  award: 最有可能成功的
+#  summary: You can choose to have either a single or multiple awards
