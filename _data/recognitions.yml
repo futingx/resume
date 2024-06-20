@@ -1,10 +1,25 @@
 # 认可成就（比如竞赛获奖）
+- award: 全国大学生计算机程序设计大赛待定(马蹄杯)
+  organization: 个人(Personal)
+  year: 2024 06
+  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+
 - award: 全国大学生计算机程序设计大赛(文香杯) 校级一等奖
-  organization: Springfield Young Professionals
+  organization: 团队(Team)
   year: 2024 04, 2024 05
   summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
+- award: 全国大学生英语作文大赛国家一等奖(NEWCCS)
+  organization: 个人(Personal)
+  year: 2023
+  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+
+- award: 互联网+ 省级铜奖
+  organization: 团队(Team)
+  year: 2023 05,2023 06
+  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+
+- award: 优秀共青团员
+  organization: 个人(Personal)
+  year: 2022 , 2023
   summary: Voted Most Likely To Succeed by a panel of my high school peers.
