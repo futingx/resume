@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "付庭喜(Vincent Fu)"
+resume_name:                    "双喜(Vincent Fu)"
 resume_title:                   "Make Yourself"
 
 # 用于 _layouts/resume.html 中的联系按钮
