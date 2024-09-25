@@ -1,25 +1,35 @@
 # 认可成就（比如竞赛获奖）
-- award: 全国大学生计算机程序设计大赛待定(马蹄杯)
+- award: 国家励志奖学金
   organization: 个人(Personal)
-  year: 2024 06
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+  year: 2024 09
+  summary: 爬山时，当你不再预想时，每一步都不只是一个目标的手段，它本身就是一个独特的事件。支撑生命的是山的侧面，而非顶峰。
+
+- award: 互联网+ 校级优秀奖
+  organization: 团队(Team)
+  year: 2024 06 &mdash; 2024 07
+  summary: 成功的速度一定要大于父母老去的速度。
+
+- award: 全国大学生计算机程序设计大赛(马蹄杯)校级三等奖
+  organization: 个人(Personal)
+  year: 2024 04 &mdash; 2024 06
+  summary: 平平淡淡看世界，踏踏实实写人生。
 
 - award: 全国大学生计算机程序设计大赛(文香杯) 校级一等奖
   organization: 团队(Team)
   year: 2024 04 &mdash; 2024 05
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+  summary: 跑起来就有风啦。
 
 - award: 全国大学生英语作文大赛国家一等奖(NEWCCS)
   organization: 个人(Personal)
-  year: 2023
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+  year: 2023 08
+  summary: 请务必全力以赴。
 
 - award: 互联网+ 省级铜奖
   organization: 团队(Team)
   year: 2023 05 &mdash; 2023 06
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+  summary: 可以一落千丈，但偏偏要一鸣惊人。
 
 - award: 优秀共青团员
   organization: 个人(Personal)
   year: 2022 &mdash; 2023
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+  summary: 听闻少年二字，应与平庸相斥。
