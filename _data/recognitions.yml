@@ -1,4 +1,9 @@
-# 认可成就（比如竞赛获奖）
+# 认可成就（比如竞赛获奖）、
+- award: 中共预备党员
+  organization: 个人(Personal)
+  year: 2024 07
+  summary: 不管你的出生 学历 家庭 背景，只要你敢勇敢地做自己，就总有人会爱你。
+
 - award: 国家励志奖学金
   organization: 个人(Personal)
   year: 2024 09
@@ -12,17 +17,17 @@
 - award: 全国大学生计算机程序设计大赛(马蹄杯)校级三等奖
   organization: 个人(Personal)
   year: 2024 04 &mdash; 2024 06
-  summary: 平平淡淡看世界，踏踏实实写人生。
+  summary: 这个世界上没有人在乎你，也没有人记得你，拿出你的激情可以改变人生，人生就是要充满Passion!
 
 - award: 全国大学生计算机程序设计大赛(文香杯) 校级一等奖
   organization: 团队(Team)
   year: 2024 04 &mdash; 2024 05
-  summary: 跑起来就有风啦。
+  summary: 记得早点回家，我在家里等你
 
 - award: 全国大学生英语作文大赛国家一等奖(NEWCCS)
   organization: 个人(Personal)
   year: 2023 08
-  summary: 请务必全力以赴。
+  summary: 舔狗的剧本里，舔狗才是主角。
 
 - award: 互联网+ 省级铜奖
   organization: 团队(Team)
@@ -32,4 +37,4 @@
 - award: 优秀共青团员
   organization: 个人(Personal)
   year: 2022 &mdash; 2023
-  summary: 听闻少年二字，应与平庸相斥。
+  summary: 后来我发现，所有的人都是你不好的时候就什么都不好，你稍微好一点，就什么都变好了。
