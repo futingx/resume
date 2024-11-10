@@ -1,13 +1,13 @@
 # 认可成就（比如竞赛获奖）、
-- award: 中共预备党员
-  organization: 个人(Personal)
-  year: 2024 07
-  summary: 不管你的出生 学历 家庭 背景，只要你敢勇敢地做自己，就总有人会爱你。
-
 - award: 国家励志奖学金
   organization: 个人(Personal)
   year: 2024 09
   summary: 爬山时，当你不再预想时，每一步都不只是一个目标的手段，它本身就是一个独特的事件。支撑生命的是山的侧面，而非顶峰。
+
+- award: 中共预备党员
+  organization: 个人(Personal)
+  year: 2024 07
+  summary: 不管你的出生 学历 家庭 背景，只要你敢勇敢地做自己，就总有人会爱你。
 
 - award: 互联网+ 校级优秀奖
   organization: 团队(Team)
@@ -20,12 +20,17 @@
   summary: 这个世界上没有人在乎你，也没有人记得你，拿出你的激情可以改变人生，人生就是要充满Passion!
 
 - award: 全国大学生计算机程序设计大赛(文香杯) 校级一等奖
-  organization: 团队(Team)
+  organization: 团队(Team) 人工智能
   year: 2024 04 &mdash; 2024 05
   summary: 记得早点回家，我在家里等你
 
-- award: 全国大学生英语作文大赛国家一等奖(NEWCCS)
+- award: CSP编程等级能力认证(100/500)
   organization: 个人(Personal)
+  year: 2024 03
+  summary: 我的追求是做一个完整的人，一个结合了完美与不完美的人
+
+- award: 全国大学生英语作文大赛国家一等奖(NEWCCS)
+  organization: 个人(Personal) 组委会录入出版报刊
   year: 2023 08
   summary: 舔狗的剧本里，舔狗才是主角。
 
