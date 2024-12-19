@@ -1,17 +1,24 @@
 # 项目经验
 # 如果希望显示 URL，请取消注释，然后添加您自己的 URL
 
-
+# futingx.github.io
 - project: futingx.github.io   # 项目名字
-  role: Founder & Primary Developer  # 项目成员
+  # role: Founder & Primary Developer  # 项目成员
   duration: 2024 &mdash; Present # 项目时间
-  url: "futingx.github.io"
+  url: "https://futingx.github.io/"
   # 项目描述
   description: 大二下学期花了一段时间搭建起来的网站，主要的目的用来写我自己的博客笔记，学习过程和一些有用的成果我会发布出来。
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2024 &mdash; Present
+# 基于yolov5的老人摔倒识别系统
+- project: 基于yolov5的老人摔倒识别系统
+  # role: Co-Founder & Organizer
+  duration: 2024 04 &mdash; 2024 05
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: 在这个人工智能项目当中，我主要负责了老人摔倒数据集的查找，以及对老人摔倒行为的数据集进行标签标注，然后调整yolov5模型代码的一系列权重，置信度。按预期训练数据集得到了理想的数据训练模型，很好的检测了老人摔倒的这一行为，有效的检测了老人日常的安全。In this artificial intelligence project, I am mainly responsible for the search of the elderly fall dataset, as well as labeling the dataset of the elderly's fall behavior, and then adjusting a series of weights and confidence levels of the yolov5 model code. According to the expected training dataset, the ideal data training model was obtained, which detected the behavior of the elderly falling well, and effectively detected the daily safety of the elderly.
+
+# 基于双重条件深度生成对抗网络DGDCGAN的藏族唐卡图像修复研究
+- project: 基于双重条件深度生成对抗网络DGDCGAN的藏族唐卡图像修复研究
+  # role: Co-Founder & Organizer
+  duration: 2024 09 &mdash; 2024 12
+  # url: "#"
+  description: 这个图像修复项目深度融合文化遗产保护与人工智能前沿技术。本项目创新性地将双重条件深度生成对抗网络（DGDCGAN）技术应用于唐卡图像修复领域，为古老的唐卡文化遗产保护开辟了新的途径[10]。通过利用人工智能技术的强大学习和生成能力，实现对唐卡图像的自动修复，这在唐卡修复历史上是一种全新的尝试，打破了传统修复方法的局限性，为文化遗产保护提供了新的思路和方法。与以往的修复技术相比，DGDCGAN 能够更深入地学习唐卡图像的复杂特征和文化内涵，不仅仅是简单地填补破损区域，还能在修复过程中高度还原唐卡的独特艺术风格、宗教象征意义以及精细的绘画技法，使修复后的唐卡更贴近原始作品的艺术魅力，极大地提高了修复的质量和文化价值。
