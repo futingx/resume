@@ -9,6 +9,14 @@
   # 项目描述
   description: 大二下学期花了一段时间搭建起来的网站，主要的目的用来写我自己的博客笔记，学习过程和一些有用的成果我会发布出来。
 
+# 基于Springboot + Vue的Javaweb的图书管理系统
+- project: 图书管理系统   # 项目名字
+  # role: Founder & Primary Developer  # 项目成员
+  duration: 2024 07.13 &mdash; 2024 07.27 # 项目时间
+  url: "https://github.com/futingx/awesome-springboot-project"
+  # 项目描述
+  description: 这个一个我们团队小组成员在大二下学期实训当中共同完成的一个基于Springboot + Vue的Javaweb的图书管理系统的项目。如果这个项目对你有所帮助，请帮我点一个star支持。该项目设计的思路以及设计的数据库细节都在已经放在项目源地址PPT和实验报告当中。项目当中或多或少存在一定的错误，能力有限，还望各位见谅。这个项目将不再进行更新维护，因为作者不走Java方向
+
 # 基于yolov5的老人摔倒识别系统
 - project: 基于yolov5的老人摔倒识别系统
   # role: Co-Founder & Organizer
