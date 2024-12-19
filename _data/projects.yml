@@ -1,11 +1,11 @@
 # 项目经验
 # 如果希望显示 URL，请取消注释，然后添加您自己的 URL
 
-# jazznotes.io
+
 - project: futingx.github.io   # 项目名字
   role: Founder & Primary Developer  # 项目成员
   duration: 2024 &mdash; Present # 项目时间
-  # url: "#"
+  url: "futingx.github.io"
   # 项目描述
   description: 大二下学期花了一段时间搭建起来的网站，主要的目的用来写我自己的博客笔记，学习过程和一些有用的成果我会发布出来。
 
