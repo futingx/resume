@@ -7,7 +7,7 @@
   duration: 2024 &mdash; Present # 项目时间
   url: "https://futingx.github.io/"
   # 项目描述
-  description: 大二下学期花了一段时间搭建起来的网站，主要的目的用来写我自己的博客笔记，学习过程和一些有用的成果我会发布出来。
+  description: 大二下学期花了一段时间搭建起来的网站，主要的目的用来写我自己的博客笔记，学习过程和一些有用的成果我会发布出来。I spent some time building this website in the second semester of my sophomore year. The main purpose is to write my own blog notes. I will publish the learning process and some useful results.
 
 # 基于Springboot + Vue的Javaweb的图书管理系统
 - project: 图书管理系统   # 项目名字
@@ -15,7 +15,7 @@
   duration: 2024 07.13 &mdash; 2024 07.27 # 项目时间
   url: "https://github.com/futingx/awesome-springboot-project"
   # 项目描述
-  description: 这个一个我们团队小组成员在大二下学期实训当中共同完成的一个基于Springboot + Vue的Javaweb的图书管理系统的项目。如果这个项目对你有所帮助，请帮我点一个star支持。该项目设计的思路以及设计的数据库细节都在已经放在项目源地址PPT和实验报告当中。项目当中或多或少存在一定的错误，能力有限，还望各位见谅。这个项目将不再进行更新维护，因为作者不走Java方向
+  description: 这个一个我们团队小组成员在大二下学期实训当中共同完成的一个基于Springboot + Vue的Javaweb的图书管理系统的项目。如果这个项目对你有所帮助，请帮我点一个star支持。该项目设计的思路以及设计的数据库细节都在已经放在项目源地址PPT和实验报告当中。项目当中或多或少存在一定的错误，能力有限，还望各位见谅。这个项目将不再进行更新维护，因为作者不走Java方向This is a Javaweb library management system project based on Springboot + Vue that our team members completed during the second semester of the sophomore year. If this project is helpful to you, please give me a star to support it. The design ideas and database details of this project are already in the project source address PPT and experimental report. There are more or less errors in the project, and I hope you can forgive me for my limited ability. This project will no longer be updated and maintained because the author does not follow the Java direction.
 
 # 基于yolov5的老人摔倒识别系统
 - project: 基于yolov5的老人摔倒识别系统
@@ -29,4 +29,4 @@
   # role: Co-Founder & Organizer
   duration: 2024 09 &mdash; 2024 12
   # url: "#"
-  description: 这个图像修复项目深度融合文化遗产保护与人工智能前沿技术。本项目创新性地将双重条件深度生成对抗网络（DGDCGAN）技术应用于唐卡图像修复领域，为古老的唐卡文化遗产保护开辟了新的途径[10]。通过利用人工智能技术的强大学习和生成能力，实现对唐卡图像的自动修复，这在唐卡修复历史上是一种全新的尝试，打破了传统修复方法的局限性，为文化遗产保护提供了新的思路和方法。与以往的修复技术相比，DGDCGAN 能够更深入地学习唐卡图像的复杂特征和文化内涵，不仅仅是简单地填补破损区域，还能在修复过程中高度还原唐卡的独特艺术风格、宗教象征意义以及精细的绘画技法，使修复后的唐卡更贴近原始作品的艺术魅力，极大地提高了修复的质量和文化价值。
+  description: 这个图像修复项目深度融合文化遗产保护与人工智能前沿技术。本项目创新性地将双重条件深度生成对抗网络（DGDCGAN）技术应用于唐卡图像修复领域，为古老的唐卡文化遗产保护开辟了新的途径[10]。通过利用人工智能技术的强大学习和生成能力，实现对唐卡图像的自动修复，这在唐卡修复历史上是一种全新的尝试，打破了传统修复方法的局限性，为文化遗产保护提供了新的思路和方法。与以往的修复技术相比，DGDCGAN 能够更深入地学习唐卡图像的复杂特征和文化内涵，不仅仅是简单地填补破损区域，还能在修复过程中高度还原唐卡的独特艺术风格、宗教象征意义以及精细的绘画技法，使修复后的唐卡更贴近原始作品的艺术魅力，极大地提高了修复的质量和文化价值。This image restoration project deeply integrates cultural heritage protection with cutting-edge artificial intelligence technology. This project innovatively applies the dual-conditional deep generative adversarial network (DGDCGAN) technology to the field of thangka image restoration, opening up a new path for the protection of the ancient thangka cultural heritage [10]. By utilizing the powerful learning and generation capabilities of artificial intelligence technology, the automatic restoration of thangka images is achieved. This is a brand-new attempt in the history of thangka restoration, breaking the limitations of traditional restoration methods and providing new ideas and methods for cultural heritage protection. Compared with previous restoration technologies, DGDCGAN can learn the complex characteristics and cultural connotations of thangka images more deeply. It is not just a simple filling of damaged areas. In addition, it can also highly restore the unique artistic style, religious symbolism and fine painting techniques of thangka during the restoration process, making the restored thangka closer to the artistic charm of the original work, greatly improving the quality and cultural value of the restoration.
